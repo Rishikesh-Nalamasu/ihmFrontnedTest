@@ -8,5 +8,5 @@ window.addEventListener("load", function () {
 });
 // extra listener - BAD
 window.addEventListener("click", function () {
-  console.log("Clicked");
+  console.log("hello");
 });
