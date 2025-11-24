@@ -1,0 +1,14 @@
+{
+  "name": "school-report",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello":"node script.js",
+    "check": "node ci/check-code.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
